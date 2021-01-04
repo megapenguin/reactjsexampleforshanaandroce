@@ -29,7 +29,6 @@ router.delete("/delete", (req, res) => {
 
   User.destroy({ where: { id } })
     .then((response) => {
-      //response
       res.json({ success: true, msg: "Succefully deleted user" });
     })
     .catch((error) => console.log(error));
