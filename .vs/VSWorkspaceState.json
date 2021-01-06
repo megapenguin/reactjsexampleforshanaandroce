@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\dashboard",
+    "\\client\\src\\views",
+    "\\server",
+    "\\server\\database",
+    "\\server\\models",
+    "\\server\\routes"
+  ],
+  "SelectedNode": "\\client\\src\\views\\Dashboard.js",
+  "PreviewInSolutionExplorer": false
+}
