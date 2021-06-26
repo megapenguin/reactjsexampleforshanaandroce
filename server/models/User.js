@@ -13,6 +13,7 @@ const User = db.define("users", {
     type: Sequelize.STRING,
     allowNull: false,
   },
+  
   lastName: {
     type: Sequelize.STRING,
     allowNull: false,
